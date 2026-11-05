@@ -1,3 +1,8 @@
+> **foxnaim** · API времени намаза Mawaqit
+>
+> Готовая основа под клиентский проект. Стек: Python.
+> Лицензия MIT сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 # Mawaqit Api
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/mrsofiane/mawaqit-api?style=flat)](https://github.com/mrsofiane/mawaqit-api/stargazers)
